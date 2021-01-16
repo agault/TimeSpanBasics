@@ -7,7 +7,7 @@ namespace TimeSpanBasics
         static void Main(string[] args)
         {
            //Time span = length of time
-           //three ways of making timespan
+           //three ways of making timespan.
            //1
            var timeSpan1 = new TimeSpan(1, 2, 3); //1-hr, 2-min , 3-sec
            //2
